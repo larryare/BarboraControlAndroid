@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Barbora Control</string>
+    <string name="irBulbOn">IR bulb on</string>
+    <string name="uvLightOn">UV bulb on</string>
+    <string name="irBulbOff">IR bulb off</string>
+    <string name="uvLightOff">UV bulb off</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="set">Set</string>
+    <string name="endOverride">End override</string>
+    <string name="sysStart">System will start at:</string>
+    <string name="sysEnd">System will shut down at:</string>
+    <string name="temperatureAndHumidity">Temperature and humidity:</string>
+    <string name="overRidden">Overridden</string>
+    <string name="operatingNormally">Operating</string>
+    <string name="dbReadError">Couldn\'t read from database</string>
+
+
+</resources>

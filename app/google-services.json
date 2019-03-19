@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "359832647501",
+    "firebase_url": "https://barbora-f1111.firebaseio.com",
+    "project_id": "barbora-f1111",
+    "storage_bucket": "barbora-f1111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359832647501:android:cdd57d3aa5f39ff7",
+        "android_client_info": {
+          "package_name": "com.lkere.barboracontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359832647501-m1r9gk4s8igk7ltc960lh3q7s2db7472.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lkere.barboracontrol",
+            "certificate_hash": "621b5687b220692008e636498bc4f08d060fe06b"
+          }
+        },
+        {
+          "client_id": "359832647501-11vodpg3fqt2p1hsd2lsmshjrgddfp2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoynQ4K8zK6jzuQDN5bnKEsRBsjEom2zA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359832647501-11vodpg3fqt2p1hsd2lsmshjrgddfp2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
